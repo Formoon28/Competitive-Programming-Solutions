@@ -8,15 +8,6 @@ public class CompetitiveProgrammingTemplate {
 	static StringTokenizer st;
 
 	public static void main(String[] args) throws IOException {
-		
-		Map<Integer, Integer> billRemaining = new HashMap<>();
-		for(int i = 0; i < 6; i++) {
-			billRemaining.put(i, 0);
-		}
-		
-		for(int k : billRemaining.keySet()) {
-			System.out.println(k);
-		}
 
 
 
