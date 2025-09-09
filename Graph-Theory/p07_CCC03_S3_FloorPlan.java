@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CCC03_S3_FloorPlan {
+public class p07_CCC03_S3_FloorPlan {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));

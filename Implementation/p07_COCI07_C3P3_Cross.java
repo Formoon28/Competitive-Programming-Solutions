@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class COCI07_C3P3_Cross {
+public class p07_COCI07_C3P3_Cross {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));

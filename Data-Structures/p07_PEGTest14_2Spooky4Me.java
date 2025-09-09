@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class PEG_2Spooky4Me {
+public class p07_PEGTest14_2Spooky4Me {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));

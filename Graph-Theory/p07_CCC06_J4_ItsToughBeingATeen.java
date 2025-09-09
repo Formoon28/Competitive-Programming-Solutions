@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CCC06_J4_ItsToughBeingATeen {
+public class p07_CCC06_J4_ItsToughBeingATeen {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));

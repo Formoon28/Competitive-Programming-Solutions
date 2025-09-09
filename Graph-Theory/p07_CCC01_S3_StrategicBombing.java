@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CCC01_S3_StrategicBombing {
+public class p07_CCC01_S3_StrategicBombing {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));

@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CCC05_J5_Bananas {
+public class p10_CCC05_J5_Bananas {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));

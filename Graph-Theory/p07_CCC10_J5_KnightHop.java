@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CCC10_J5_KnightHop {
+public class p07_CCC10_J5_KnightHop {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
