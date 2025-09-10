@@ -1,9 +1,9 @@
-//Problem Link: 
+//Problem Link: https://dmoj.ca/problem/coci08c3p3
 
 import java.io.*;
 import java.util.*;
 
-public class p07_COCI07_C3P3_Cross {
+public class p10_COCI07_C3P3_Cross {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
